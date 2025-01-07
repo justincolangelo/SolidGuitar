@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SolidGuitar
 {
-    class TopVolumeComponent : VolumeComponent
+    public class TopVolumeComponent : VolumeComponent
     {
         public int VolumeLevel = 0;
         private int TopVolumeLevel = 11;

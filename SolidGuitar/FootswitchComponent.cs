@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SolidGuitar
+﻿namespace SolidGuitar
 {
-    class FootswitchComponent
+    public class FootswitchComponent
     {
         public void HandleFootswitchPress()
         {

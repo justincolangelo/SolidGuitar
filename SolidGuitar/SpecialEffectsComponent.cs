@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SolidGuitar
 {
-    class SpecialEffectsComponent
+    public class SpecialEffectsComponent
     {
         public void AddSpecialEffects()
         {
