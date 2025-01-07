@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SolidGuitar
 {
-    class VolumeComponent : IVolumeComponent
+    public class VolumeComponent : IVolumeComponent
     {
         // virtual to override potentially
         public virtual void VolumeUp()
